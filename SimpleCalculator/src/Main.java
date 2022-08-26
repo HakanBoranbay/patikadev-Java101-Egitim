@@ -36,7 +36,11 @@ public class Main {
                 System.out.println("Result = " + (firstNumber * secondNumber));
                 break;
             case "4":
-                System.out.println("Result = " + (double)(firstNumber / secondNumber));
+                if (secondNumber != 0) {
+                    System.out.println("Result = " + (double)(firstNumber / secondNumber));
+                } else {
+                    System.out.println("A number can't be devided by zero.");
+                }
                 break;
             default:
                 System.out.println("Invalid selection.");
