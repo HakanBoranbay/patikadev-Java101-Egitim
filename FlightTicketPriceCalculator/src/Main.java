@@ -37,7 +37,7 @@ public class Main {
                     System.out.println("Total price of your ticket is: " + totalPrice + "TRY.");
                     break;
                 case 2:
-                    totalPrice *= 0.8;
+                    totalPrice *= 0.8 * 2;
                     if (age <= 12) {
                         totalPrice *= 0.5;
                     } else if (age > 12 && age < 24) {
