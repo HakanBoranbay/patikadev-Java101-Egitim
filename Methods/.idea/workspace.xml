@@ -37,7 +37,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimeNumbers">
+  <component name="RunManager" selected="Application.NumberPattern">
+    <configuration name="NumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.NumberPattern" />
+      <module name="Methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PowerOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeworks.PowerOfANumber" />
       <module name="Methods" />
@@ -66,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberPattern" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.PowerOfANumber" />
       </list>
