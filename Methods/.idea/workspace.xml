@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bd38598f-88b7-4504-b2a7-d9959efe960d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Methods/homeworks/PowerOfANumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Methods/homeworks/PowerOfANumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/PowerOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/PowerOfANumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PrimeNumbers">
     <configuration name="PowerOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeworks.PowerOfANumber" />
       <module name="Methods" />
@@ -53,8 +51,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.PrimeNumbers" />
+      <module name="Methods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.PowerOfANumber" />
       </list>
     </recent_temporary>
