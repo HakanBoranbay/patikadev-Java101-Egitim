@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dce931b-86cc-452d-a410-729289f81d99" name="Changes" comment="" />
+    <list default="true" id="bd38598f-88b7-4504-b2a7-d9959efe960d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PalindromeNumbers/out/production/PalindromeNumbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeNumbers/out/production/PalindromeNumbers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PalindromeNumbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeNumbers/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FUzKYxvhh8Bz630ML2rANIeHSB" />
+  <component name="ProjectId" id="2FlHDcpSa7NGPH4z6viEbRKcRRf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,23 +39,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0dce931b-86cc-452d-a410-729289f81d99" name="Changes" comment="" />
-      <created>1664561388683</created>
+      <changelist id="bd38598f-88b7-4504-b2a7-d9959efe960d" name="Changes" comment="" />
+      <created>1665059632074</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664561388683</updated>
+      <updated>1665059632074</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
