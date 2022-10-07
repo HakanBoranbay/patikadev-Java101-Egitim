@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk-17.0.4.1.jdk/Contents/Home" stamp="1665153767025"/>
+    <entry loc="/Users/hakanboranbay/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.4.v20221004-1257/jre" stamp="1665152759799"/>
+    <entry loc="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home" stamp="1665152877140"/>
     <entry loc="C:\Program Files\Java\jdk-17.0.2" stamp="1647521841942"/>
+    <entry loc="/Users/hakanboranbay/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.4.v20221004-1257" stamp="1665152759802"/>
+    <entry loc="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home" stamp="1665152877271"/>
 </dirs>
