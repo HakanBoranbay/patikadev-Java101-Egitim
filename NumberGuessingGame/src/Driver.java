@@ -21,6 +21,7 @@ public class Driver {
 				
 				if (guessedNumber == targetNumber) {
 					System.out.println("Congratulations! You Won!");
+					break;
 				} else {
 					right--;
 					if (guessedNumber < targetNumber) {
